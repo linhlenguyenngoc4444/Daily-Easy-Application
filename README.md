@@ -1,12 +1,12 @@
 # Daily Easy Application
 
-## I. Project Overview
+## Project Overview
 
 In today's fast-paced digital age, numerous applications are launched, yet most of them only serve one or two specific purposes. This causes inconvenience for users who have to download and switch between multiple apps for different needs.
 
 Born from real-life demands, **Daily Easy** was developed as an **all-in-one** application, with a single mission: **to help users simplify their daily lives and enjoy every moment.**
 
-## II. Solution Overview
+## Solution Overview
 
 ### Accurate Weather Updates and Natural Disaster Alerts
 - Always get the latest weather forecasts for your selected areas, even without logging in.
