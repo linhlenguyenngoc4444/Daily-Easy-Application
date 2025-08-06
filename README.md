@@ -42,6 +42,6 @@ Born from real-life demands, **Daily Easy** was developed as an **all-in-one** a
   Located in the `SEQUENCE DIAGRAM` folder
 
 - **Mockup**  
-  Designed on Canva, available in the `MOCKUP` folder
+  Designed on Canva, located in the `MOCKUP` folder
 
 
